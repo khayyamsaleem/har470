@@ -1,0 +1,6 @@
+[submodule "passage-of-time"]
+	path = passage-of-time
+	url = https://github.com/khayyamsaleem/passage-of-time
+[submodule "skin-and-bones"]
+	path = skin-and-bones
+	url = https://github.com/khayyamsaleem/skin-and-bones
