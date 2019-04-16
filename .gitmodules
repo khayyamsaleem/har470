@@ -4,3 +4,6 @@
 [submodule "skin-and-bones"]
 	path = skin-and-bones
 	url = https://github.com/khayyamsaleem/skin-and-bones
+[submodule "arduino-pocket-ddr"]
+	path = arduino-pocket-ddr
+	url = https://github.com/khayyamsaleem/arduino-pocket-ddr
