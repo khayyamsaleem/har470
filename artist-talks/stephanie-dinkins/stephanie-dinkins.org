@@ -1,0 +1,8 @@
+#+TITLE: Stephanie Dinkins
+#+SUBTITLE: 2019 Spring VA&T Lecture Series
+#+DATE: 09 April 2019
+#+OPTIONS: toc:nil num:nil
+
+At her talk, Stephanie Dinkins spoke about her project, /Conversations with Bina48/. Bina48 is a humanoid robot that can converse with other humans. Stephanie conducted her project to explore how a world with AI and algorithms driving decisions and emotions would affect minority groups. She explores transhumanism, morality, and algorithmic bias through Bina48, a robot that is said to be able to think and feel on her own.
+
+The talk interested me because it was a very non-traditional form of performance art, and it had a very specific purpose and outcome. Though presented as art, it was executed as though it were an experiment. Stephanie went on to talk about a project in which she wanted to encode the history of three generations of her family into a virtual reality experience. This project, "Not The Only One," confused me because I was unsure about how effective an AI storyteller would be in trying to convey the narrative of her family and their experiences as black Americans. The project has changed my preconceived notions about the utility of AI and its ability to be represented in art. From Stephanie Dinkins, I have gleaned that rather than just solving technical problems for us, AI can also help us solve philosophical and social issues.
