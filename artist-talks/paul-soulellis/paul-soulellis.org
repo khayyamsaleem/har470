@@ -3,4 +3,6 @@
 #+DATE: 26 March 2019
 #+OPTIONS: toc:nil num:nil
 
-Paul Soulellis presented his Library of the Printed Web.
+Paul Soulellis presented his "Library of the Printed Web". His work is an archive that compiles notable content from the web and puts it into print, in the forms of magazines and books. The works included photos from protests, different provocative tweets, and even screenshots of old, 90s-style websites. The talk, entitled "Publishing as practice as resistance," interested me because of the crowd-sourced nature of his work. He allows different artists to both express themselves through art and protest in his compilations.
+
+I was less sure of his idea of using illegibility as a design strategy. I voiced this question at the talk, but I am still unsure if using illegibility and making the work less easy to consume is a valid or inclusive form of expression worthy of encouragement. However, Paul's work still challenges the way that I viewed printed art. His "Library of the Printed Web" gave me a greater appreciation for print, and it's ability to bring tangibility to digital expression. 
