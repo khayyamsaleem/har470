@@ -1,4 +1,4 @@
-#+TITLE: Stephanie Dinkins
+#+TITLE: [[https://www.stephaniedinkins.com/][Stephanie Dinkins]]
 #+SUBTITLE: 2019 Spring VA&T Lecture Series
 #+DATE: 09 April 2019
 #+OPTIONS: toc:nil num:nil

@@ -1,4 +1,4 @@
-#+TITLE: Paul Soulellis
+#+TITLE: [[https://soulellis.com/][Paul Soulellis]]
 #+SUBTITLE: 2019 Spring VA&T Lecture Series
 #+DATE: 26 March 2019
 #+OPTIONS: toc:nil num:nil
